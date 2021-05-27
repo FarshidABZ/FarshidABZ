@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Farshid Abazari, An Android Developer from Iran who lives in Istanbul,Turkey and working at [Mobiliva](http://www.mobiliva.com/en/english/).
+Hi, I'm Farshid Abazari, An Android Developer from Iran who lives in Amsterdam and working at [Mobiquity](https://www.mobiquity.com/).
 
 
 **Talking about Personal Stuffs:**
