@@ -5,9 +5,9 @@ Hi, I'm Farshid Abazari, An Android Developer from Iran who lives in Amsterdam a
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on multiple android projects.
-- 🌱 I’m currently learning Android deeply; 
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working on a component base android project.
+- 🌱 I’m currently learning Android deeply, AWS, Software Architecture; 
+- 💬 Ask me about anything, I'd be happy to help;
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/farshid-abazari/);
 
 **Languages and Tools:**  
@@ -23,3 +23,4 @@ Hi, I'm Farshid Abazari, An Android Developer from Iran who lives in Amsterdam a
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidABZ&theme=gotham)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FarshidABZ&show_icons=true&theme=gotham)
+
