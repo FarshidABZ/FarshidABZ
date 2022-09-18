@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Farshid Abazari, An Android Developer from Iran who lives in Amsterdam and working at [Mobiquity](https://www.mobiquity.com/).
+Hi, I'm Farshid Abazari, An Android Developer from Iran who lives in Amsterdam and working at [Getir](https://getir.com).
 
 
 **Talking about Personal Stuffs:**
