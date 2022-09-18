@@ -22,5 +22,5 @@ Hi, I'm Farshid Abazari, An Android Developer from Iran who lives in Amsterdam a
 **📈 My GitHub Stats**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidABZ&theme=gotham)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=FarshidABZ&show_icons=true&theme=gotham)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=FarshidABZ&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 
