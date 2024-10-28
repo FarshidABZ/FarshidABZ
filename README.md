@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Hi, I'm Farshid Abazari, An Android Developer from Iran who lives in Amsterdam and working at [Getir](https://getir.com).
+Hi, I'm Farshid Abazari, An Android Developer from Iran who lives in Amsterdam and works at [TomTom](https://www.tomtom.com/).
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on a component base android project.
 - 🌱 I’m currently learning Android deeply, AWS, Software Architecture; 
